@@ -1,0 +1,8 @@
+data==0.4
+pandas==1.0.5
+matplotlib==3.2.2
+praw==7.2.0
+ntlk==3.5
+emoji==1.2.0
+squarify==0.4.3
+en_core_web_sm==3.0.0
